@@ -3,8 +3,6 @@
 
 }
 
-head {
-background-image{
-<img src="wallhaven-5dypr1.jpg">
-}
-}
+head img {
+ width: 124px;
+} 
